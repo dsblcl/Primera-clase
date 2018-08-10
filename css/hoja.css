@@ -1,0 +1,49 @@
+
+/* Definicion de los objetos de la pagina */
+body
+{
+background-color: rgb(15, 160, 228);
+
+}
+img 
+{
+width: 100px ;
+height:100px ;
+}
+
+nav a 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px ; 
+    color:rgb(247, 213, 22);
+}
+/*Definir estilos como clases*/
+.titulo1 
+{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 50px;
+color: rgb(90, 247, 0);
+}
+.DivImagen
+{
+padding: 100px
+}
+.DivFormulario 
+{
+    background-image: url("../img/5814de98f3a1c03c305a4d539b145c9a.jpg");
+}
+
+/*Definciion de estilo po id */ 
+#txtrut 
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100pp ;
+
+}
+#rbtEstadoCivil
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ; 
+font-size: 300px ;
+color: rgb(119, 0, 255)
+
+}
